@@ -1,5 +1,6 @@
 # Balloon-Pop-Game
-This is a game using your hand to pop a 
+This is a game using your hand to pop balloon
+We use cvzone to tracking the hand
 
 # Install
 First of all, we NEED to install some library in requirements.txt (To install quick, you just open your terminal and pip install -r requirements.txt)
